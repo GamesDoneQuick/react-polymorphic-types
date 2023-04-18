@@ -17,6 +17,7 @@
 	"author": "Kristóf Poduszló <kripod@protonmail.com>",
 	"sideEffects": false,
 	"exports": {
+		"types": "./index.d.ts",
 		"default": "./empty.js",
 		"import": "./empty.js"
 	},
